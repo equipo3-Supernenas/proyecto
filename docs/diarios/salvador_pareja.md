@@ -1,7 +1,7 @@
 # Diario de Trabajo Individual
 
 **Salvador Pareja Asin**
-**2DAMB**
+**2DAM-A**
 
 ## Índice de Meses
 
