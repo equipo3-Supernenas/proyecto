@@ -1,7 +1,7 @@
 # Diario de Trabajo Individual
 
-**Salvador Pareja Asin**
-**2DAMB**
+**Rubén Alemañ Arnau**
+**2DAMA**
 
 ## Índice de Meses
 
