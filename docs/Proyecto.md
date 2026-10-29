@@ -80,4 +80,4 @@ Una forma de gamificar la vida sana y el ejercicio constante, haciendo que pase 
 
 ## Organizacion del repositorio 📄
 
-(Poner una imagen del arbol de carpetas del proyecto en github)
+![imagen de la distribucion actual del repositorio](https://i.ibb.co/5XcCsm4J/Captura-de-pantalla-2026-10-29-124245.png)
