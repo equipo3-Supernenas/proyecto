@@ -1,12 +1,12 @@
-# Propuesta de Proyecto: (insertar nombre)
+# Propuesta de Proyecto: Fitepad
 
 ## Titulo del proyecto 🚀
 
-**(Insertar nombre)** : Descripcion del proyecto
+**Fitepad** : Una aplicacion para mantener tus rutinas, compartir rutinas y progresos
 
 ## Datos del Equipo 👥
 
-- **Nombre del proyecto:** (insertar nombre)
+- **Nombre del proyecto:** Fitepad
 - **Equipo:** Supernenas 
 - **Miembros del equipo:**
   - Ivan
@@ -19,53 +19,64 @@
 
 ## Alineacion con los Objetivos de Desarrollo Sostenible (ODS) 🌳
 
-(Insertar ods que cumplimos y su descripcion)
+ODS 3: Salud y Bienestar y ODS 12: Producción y Consumo Responsables
 
 ## Descripcion del problema ⚠️
 
-(Ponemos la informacion del problema a solucionar con nuestro proyecto)
+La falta de motivacion de las personas para mantener una rutina de deporte y mantener una vida sana y saludable
 
 ## Descripcion de la solucion propuesta 🛡️
 
-(Vendemos la idea de nuestro proyecto)
+Una forma de gamificar la vida sana y el ejercicio constante, haciendo que pase de ser una obligacion a algo entretenido y con un aspecto social.
 
 ## Actores y roles 🙋
 
-(Describir el tipo de usuario que tendra la aplicacion y su papel)
+- Usuario deportista 🏋️:  es el actor principal de la aplicación. Puede consultar y realizar rutinas de entrenamiento, registrar los ejercicios completados, controlar su progreso físico y establecer objetivos personales. Además, puede ganar puntos de experiencia (XP), subir de nivel, desbloquear logros, completar misiones y participar en desafíos para mantener la motivación.
+- Administrador ⚙️: se encarga de gestionar el funcionamiento de la aplicación, administrar las cuentas de usuario y supervisar el sistema de gamificación. Puede configurar retos, gestionar recompensas, definir logros y niveles, y controlar las clasificaciones para garantizar una experiencia equilibrada y motivadora.
+- - Entrenador personal 💪: puede diseñar y recomendar rutinas de entrenamiento, establecer objetivos para los usuarios y realizar un seguimiento de su evolución. También puede crear desafíos personalizados y ayudar a los deportistas a mejorar su rendimiento.
 
 ## Arquitectura general 🔄
 
-(Insertar una imagen de la arquitectura que tendra la app)
+![imagen de diagrama de clase que usaremos para WPF](https://i.ibb.co/4nhhPKYR/watermarked-img-12139238787631790076.jpg)
 
 ## Casos de Uso Principales 💬
 
 | Caso de uso | Descripción | Prioridad |
-| :--- | :--- | :---: |
-| Nombre del caso de uso 1 | Detalle o explicación del proceso | Alta |
-| Nombre del caso de uso 2 | Detalle o explicación del proceso | Media |
-| Nombre del caso de uso 3 | Detalle o explicación del proceso | Baja |
+|---|---|:---:|
+| Realizar una rutina | El usuario consulta una rutina, realiza los ejercicios y marca el entrenamiento como completado. | Alta |
+| Ganar experiencia y subir de nivel | El usuario gana puntos de experiencia (XP) al completar entrenamientos y retos, sube de nivel y desbloquea logros. | Alta |
+| Consultar el progreso | El usuario consulta sus entrenamientos realizados, sus estadísticas y su evolución física. | Alta |
+| Completar desafíos | El usuario participa en misiones y retos para conseguir puntos y recompensas adicionales. | Media |
+| Consultar clasificaciones | El usuario compara sus puntos con los de otros usuarios y consulta su posición en la clasificación. | Media |
+| Personalizar el perfil | El usuario modifica sus datos personales y consulta su nivel, sus puntos y sus logros. | Baja |
+| Gestionar rutinas | El administrador o entrenador crea, modifica y elimina rutinas de entrenamiento. | Media |
 
 ## Riesgos y Mitigación 🧯
 
 | Riesgo | Mitigación |
-| :--- | :--- |
-| Descripción del riesgo 1 | Acción o estrategia para mitigarlo |
-| Descripción del riesgo 2 | Acción o estrategia para mitigarlo |
-| Descripción del riesgo 3 | Acción o estrategia para mitigarlo |
+|---|---|
+| Lesiones por realizar ejercicios incorrectamente | Incluir instrucciones claras, imágenes o vídeos explicativos de los ejercicios y recomendaciones de seguridad. |
+| Pérdida de motivación de los usuarios | Utilizar puntos de experiencia (XP), niveles, logros, retos y recompensas para fomentar la constancia. |
+| Pérdida de datos de los usuarios | Realizar copias de seguridad periódicas y proteger la información almacenada. |
+| Uso fraudulento del sistema de gamificación | Validar los entrenamientos completados para evitar que los usuarios consigan puntos sin realizar las actividades. |
+| Acceso no autorizado a las cuentas | Implementar contraseñas seguras y sistemas de autenticación para proteger las cuentas. |
+| Errores en las rutinas de entrenamiento | Revisar las rutinas y comprobar que los ejercicios y las instrucciones sean correctos y seguros. |
 
-## Planificacion aproximada 🏃
+## Planificación aproximada 🏃
 
-(Poner la planificacion aproximada)
 
 | Sprint | Semanas | Fecha fin | Entregable clave |
 | :---: | :---: | :---: | :--- |
-| Sprint 1 | Semanas 1 - 2 | DD/MM/AAAA | Descripción del entregable principal |
-| Sprint 2 | Semanas 3 - 4 | DD/MM/AAAA | Descripción del entregable principal |
-| Sprint 3 | Semanas 5 - 6 | DD/MM/AAAA | Descripción del entregable principal |
+| Sprint 1 | Semanas 1 - 2 | 12/11/2026 | Diseño básico de la aplicación, creación de la base de datos y sistema de registro e inicio de sesión. |
+| Sprint 2 | Semanas 3 - 4 | 26/11/2026 | Sistema de rutinas, registro de entrenamientos y primeras funciones de gamificación, como puntos de experiencia y niveles. |
+| Sprint 3 | Semanas 5 - 6 | 10/12/2026 | Sistema de logros y desafíos, pruebas de funcionamiento, corrección de errores y entrega de la aplicación. |
 
 ## Reparto de funcionalidad 📑
 
-(Poner quien se encarga de cada cosa)
+- Ivan se encarga de hacer los assets y diseño grafico
+- Yeray encargado de las clases de datos de la aplicacion
+- Chema se encargaria de la gamificacion de la aplicacion
+- Salvador se encarga de los viewmodels y la carga de datos
 
 ## Organizacion del repositorio 📄
 
