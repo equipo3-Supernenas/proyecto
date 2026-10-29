@@ -7,3 +7,11 @@ Soluciona el problema de que las personas no sean constantes con el cuidado de s
 WPF = Una aplicación potente e intuitiva orientada a la planificación global, gestión de tablas de ejercicios, dietas, informes estadísticos avanzados y administración de usuarios.
 
 App Móvil = Una aplicación ligera, rápida e interactiva pensada para usarse durante el entrenamiento en el gimnasio, con temporizadores de descanso, registro de series/pesos, lectura de sensores (pasos/pulsaciones) y sincronización cloud en tiempo real mediante API REST/Firebase
+
+Fit, not fat
+Ascend
+Fitepad
+
+por seleccion ludopatica Fitepad
+
+
