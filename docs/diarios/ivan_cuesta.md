@@ -18,7 +18,7 @@ Este diario recoge el seguimiento personal del desarrollo del Proyecto Intermodu
 | Sesión | Fecha | Tareas realizadas | Problemas encontrados | Próximos pasos |
 |---|---|---|---|---|
 | 1 | 22/10/2026 | Creación del diario | No estaba como owner en el github | No idea |
-| 2 | | | | |
+| 2 | 29/10/2026 | Definición del proyecto y que vamos a hacer cada uno, en mi caso me encargo de la parte de diseño gráfico de las vistas y los assets | No ha habido ningún problema | diseñar los assets y las vistas del proyecto |
 | 3 | | | | |
 
 ## Noviembre 2026
