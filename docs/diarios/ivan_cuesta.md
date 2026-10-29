@@ -3,15 +3,18 @@
 Este diario recoge el seguimiento personal del desarrollo del Proyecto Intermodular de 2.º DAM durante el curso 2026-2027. En él se registrarán las distintas sesiones de trabajo, las tareas realizadas, los problemas encontrados y los avances conseguidos.
 
 ## INDICE
-- [Octubre 2026](#octubre-2026)
-- [Noviembre 2026](#noviembre-2026)
-- [Diciembre 2026](#diciembre-2026)
-- [Enero 2027](#enero-2027)
-- [Febrero 2027](#febrero-2027)
-- [Marzo 2027](#marzo-2027)
-- [Abril 2027](#abril-2027)
-- [Mayo 2027](#mayo-2027)
-- [Junio 2027](#junio-2027)
+
+- [Diario personal del Proyecto Intermodular](#diario-personal-del-proyecto-intermodular)
+  - [INDICE](#indice)
+  - [Octubre 2026](#octubre-2026)
+  - [Noviembre 2026](#noviembre-2026)
+  - [Diciembre 2026](#diciembre-2026)
+  - [Enero 2027](#enero-2027)
+  - [Febrero 2027](#febrero-2027)
+  - [Marzo 2027](#marzo-2027)
+  - [Abril 2027](#abril-2027)
+  - [Mayo 2027](#mayo-2027)
+  - [Junio 2027](#junio-2027)
 
 ## Octubre 2026
 
