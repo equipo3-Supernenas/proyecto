@@ -37,9 +37,31 @@
 
 (Insertar una imagen de la arquitectura que tendra la app)
 
+## Casos de Uso Principales
+
+| Caso de uso | Descripción | Prioridad |
+| :--- | :--- | :---: |
+| Nombre del caso de uso 1 | Detalle o explicación del proceso | Alta |
+| Nombre del caso de uso 2 | Detalle o explicación del proceso | Media |
+| Nombre del caso de uso 3 | Detalle o explicación del proceso | Baja |
+
+## Riesgos y Mitigación
+
+| Riesgo | Mitigación |
+| :--- | :--- |
+| Descripción del riesgo 1 | Acción o estrategia para mitigarlo |
+| Descripción del riesgo 2 | Acción o estrategia para mitigarlo |
+| Descripción del riesgo 3 | Acción o estrategia para mitigarlo |
+
 ## Planificacion aproximada
 
 (Poner la planificacion aproximada)
+
+| Sprint | Semanas | Fecha fin | Entregable clave |
+| :---: | :---: | :---: | :--- |
+| Sprint 1 | Semanas 1 - 2 | DD/MM/AAAA | Descripción del entregable principal |
+| Sprint 2 | Semanas 3 - 4 | DD/MM/AAAA | Descripción del entregable principal |
+| Sprint 3 | Semanas 5 - 6 | DD/MM/AAAA | Descripción del entregable principal |
 
 ## Reparto de funcionalidad
 
