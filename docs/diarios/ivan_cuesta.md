@@ -22,7 +22,7 @@ Este diario recoge el seguimiento personal del desarrollo del Proyecto Intermodu
 |---|---|---|---|---|
 | 1 | 22/10/2026 | Creación del diario | No estaba como owner en el github | No idea |
 | 2 | 29/10/2026 | Definición del proyecto y que vamos a hacer cada uno, en mi caso me encargo de la parte de diseño gráfico de las vistas y los assets | No ha habido ningún problema | diseñar los assets y las vistas del proyecto |
-| 3 | | | | |
+    | 3 | 30/10/2026 | Nos hemos juntado Salva y yo en un momento para ver que tan posible sería hacer las pantallas de Android y como se podrían hacer, usando la IA de Google llamada Stitch hemos generado una idea de lo que podría ser la forma de hacer nuestras vistas en Android | Hemos visto que hacer una forma hexagonal en Android Studio es muy fumada y hemos decidido hacer el logo hexagonal directamente | Los próximos pasos es definir bien logos, símbolos y nombres de los menús de la aplicación |
 
 ## Noviembre 2026
 
