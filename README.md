@@ -15,3 +15,9 @@ Aqui estan unas pequeñas instrucciones para usar el repo, si no se cumplen ![Im
 
 Cualquier duda, preguntasela al perrito programador
 ![imagen para dudas](https://i.ibb.co/23CvYrHx/images.jpg)
+
+## Como elegir en que trabajar
+
+Si quieres saber en que hay que trabajar revisa el trello del proyecto en [enlace al trello](https://trello.com/invite/b/6af1c77e6bceec30f1ad8d61/ATTIea4bf4685bf01b9dffafd92037fd13b0A951874A/fitepad-app-movil)
+![imagen trello](https://i.imgur.com/gLDofAA.png)
+Puedes encontrar una guia de como usarlo en ``docs\manuales``
